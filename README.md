@@ -24,7 +24,7 @@ This project implements an Intrusion Detection System (IDS) using a Random Fores
     - Connect dataset from kaggle.
 
 2. Run the Notebook:
-    - Open the Jupyter Notebook `Intrusion_Detection_System.ipynb` and run the cells sequentially to execute the entire workflow.
+    - Open the Jupyter Notebook `NIDS.ipynb` and run the cells sequentially to execute the entire workflow.
 
 3. Model Training and Evaluation:
     - The notebook includes steps for preprocessing the data, training the Random Forest model, and evaluating its performance.
